@@ -1,0 +1,22 @@
+{
+  "name": "merchant-category-codes",
+  "version": "1.0.0",
+  "author": "Vitalii Sashyn",
+  "license": "MIT",
+  "description": "Merchant category codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsashyn/merchant-category-codes.git"
+  },
+  "keywords": [
+    "mcc"
+  ],
+  "bugs": {
+    "url": "https://github.com/vsashyn/merchant-category-codes/issues"
+  },
+  "homepage": "https://github.com/vsashyn/merchant-category-codes#readme"
+}
