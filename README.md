@@ -1,22 +1,5 @@
-# Merchant-Category-Codes
-MCC codes dataset in Ukrainian, English and Russian (with groups and without groups)
+# Merchant Category Codes
 
-Набір даних MCC українською, англійською та російською мовами (з групами та без груп)
-
-Набор данных MCC на украинском, английском и русском языках (с группами и без групп)
-
-------------
-
-Дякую [Sominemo](https://github.com/Sominemo "Sominemo") та [monobank | unofficial](https://t.me/monobankunofficial "monobank | unofficial") за допомогу в локалізації MCC
-
-Thanks to [Sominemo](https://github.com/Sominemo "Sominemo") and [monobank | unofficial](https://t.me/monobankunofficial "monobank | unofficial") for help in localizing MCC
-
-Спасибо [Sominemo](https://github.com/Sominemo "Sominemo") и [monobank | unofficial](https://t.me/monobankunofficial "monobank | unofficial") за помощь в локализации MCC
-
-------------
-
-#### Типи груп / Types of groups / Типы групп
-###### Тільки для json з групами / Only for json with groups / Только для json с группами
 | Types | Українська                       | English                               | Русский                            |
 | ----- | -------------------------------- | ------------------------------------- | ---------------------------------- |
 | AS    | Сільськогосподарські послуги     | Agricultural Services                 | Сельскохозяйственные услуги        |
