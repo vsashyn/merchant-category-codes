@@ -8,7 +8,7 @@ const mcc_without_groups_en = require('./without_groups/mcc-en.json')
 const mcc_without_groups_ru = require('./without_groups/mcc-ru.json')
 const mcc_without_groups_uk = require('./without_groups/mcc-uk.json')
 
-export {
+module.exports = {
     mcc_with_groups,
     mcc_with_groups_en,
     mcc_with_groups_ru,
